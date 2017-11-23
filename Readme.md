@@ -5,5 +5,5 @@ This set of scripts and functions meant to provide utilities for post processing
 
 All files are presume that incoming files are in the same local directory - when cloning, move all scripts to where these files are hosted.
 
-##VIC_curvebuilder
+## VIC_curvebuilder
 Processes tabulates mechanical test frame data and 2D DIC data as processed by VIC-2D to generate flow stress curves.
